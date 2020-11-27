@@ -28,3 +28,8 @@
 - 문자열 출력 명령어
 
 ### start . 폴더 위치 탐색기로 열기
+
+### echo
+
+- '>' : write or overwrite
+- '>>' : append
