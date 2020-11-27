@@ -18,3 +18,13 @@
 ### git config --global alias.st status: 단축명령어 설정
 
 - alias: 별명
+
+### Staging Area
+
+- 저장소에 커밋되기 전, 거치는 중간 단계
+
+### echo 명령어
+
+- 문자열 출력 명령어
+
+### start . 폴더 위치 탐색기로 열기
