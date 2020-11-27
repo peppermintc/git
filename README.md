@@ -33,3 +33,5 @@
 
 - '>' : write or overwrite
 - '>>' : append
+
+### cat a.txt b.txt c.txt: 한개 이상의 파일을 이어서 출력
