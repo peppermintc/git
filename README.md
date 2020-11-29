@@ -35,3 +35,9 @@
 - '>>' : append
 
 ### cat a.txt b.txt c.txt: 한개 이상의 파일을 이어서 출력
+
+### git log --pretty: log option format 설정
+
+### alias
+
+- git config --global alias.hist: hist 라는 이름의 명령어 만들기
