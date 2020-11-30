@@ -41,3 +41,7 @@
 ### alias
 
 - git config --global alias.hist: hist 라는 이름의 명령어 만들기
+
+### Merge Conflict를 해결 할 때는 다른 코드를 추가하는것은 지양하는 것이 좋다
+
+### mergetool: vscode, p4merge
