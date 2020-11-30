@@ -45,3 +45,10 @@
 ### Merge Conflict를 해결 할 때는 다른 코드를 추가하는것은 지양하는 것이 좋다
 
 ### mergetool: vscode, p4merge
+
+### Stash
+
+- 작업하던 내용을 커밋하지 않고 잠시 stash stack에 보관시킬 수 있다
+- 다른 브랜치를 체크아웃해서 확인해야하는 경우 작업 내용을 stash stack에 보관 시킨 뒤 확인한다. 확인이 완료된 후 다시 작업 내용을 불러와 작업을 다시 시작 할 수 있다.
+
+### WIP stash
