@@ -53,4 +53,20 @@
 
 ### WIP stash
 
-### git reflog로 이전 commit 내역을 볼 수 있고 reset을 이용해서 예전으로 돌아갈수 있다. 
+### git reflog로 이전 commit 내역을 볼 수 있고 reset을 이용해서 예전으로 돌아갈수 있다.
+
+### git revert (commit 번호)
+
+- 뜻 돌아가다, 복귀하다, 취소하다
+- 특정 commit 선택 취소
+- log에 commit 취소 기록을 남길 수 있음
+- reset, rebase는 기록이 남지 않음
+- commit을 따로 만들지 않는 것도 가능 (--no-commit 옵션)
+
+### git rebase -i (commit 번호)
+
+- interactive rebase
+
+### merge squash
+
+- 하나의 commit으로 병합 merge
