@@ -70,3 +70,5 @@
 ### merge squash
 
 - 하나의 commit으로 병합 merge
+
+### tig, alias
